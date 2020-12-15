@@ -39,11 +39,17 @@ body{
 }
 .minute-hand {
     height: 8px;
+    width:180px;
+    left: 5%;
 }
 .hour-hand {
     height: 15px;
     width: 150px;
     left: 13%;
+}
+.second-hand {
+    width:180px;
+    left: 5%;
 }
 .circle {
     width: 20px;
